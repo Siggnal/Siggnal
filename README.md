@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there I'm Sanket👋
 
+I'm a passionate DevOps professional with a keen interest in cloud technology. I love bringing ideas to life through code and am constantly learning and exploring new technologies.
+
+💻 Skills & Technologies
+
+Here are some of the technologies I've been working with:
+
+Languages: PLSQL, Python
+Databases: Oracle, Teradata, MySQL,SQLServer
+Tools & Platforms: Git, Docker, Kubernetes, Google Cloud
 <!--
 **Siggnal/Siggnal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
